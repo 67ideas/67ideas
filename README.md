@@ -1,2 +1,1 @@
-# 67ideas.md
-jackhoge.com
+![jackhoge.com](https://www.jackhoge.com)
