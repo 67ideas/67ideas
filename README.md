@@ -1,3 +1,3 @@
-<img alt="fleeing cat" src="https://github.com/user-attachments/assets/e9780a4b-9b1e-48e6-9b50-4cca74e48f35" />
+![fleeing-cat](https://github.com/user-attachments/assets/a6db99f9-7df9-419e-8294-82e265d83989)
 
-[what i'm up to on jackhoge.com](https://www.jackhoge.com)
+[very serious work on jackhoge.com](https://www.jackhoge.com)
