@@ -2,4 +2,8 @@
 
 [very serious work on jackhoge.com](https://www.jackhoge.com)
 
-[make diagrams on longleggedmermaid.com](https://www.longleggedmermaid.com)
+[make diagrams with Long Legged Mermaid](https://www.longleggedmermaid.com)
+
+[trade smarter with Candlesense](https://www.candlesense.ai)
+
+[practice foreign languages with Hua](https://www.hua.io)
